@@ -41,5 +41,19 @@ My boundaries with respect to sharing an apartment, revolve around 2 baseline po
 1) respecting quiet hours on a regular basis, and
 2) preserving some basic hygiene level in shared spaces.
 ## PICTURES
-Some pictures of me living life :)
+Some pictures of me living life :) <br>
+<figure>
+  <img src="./0557.jpg"  width="400" height="300">
+  <figcaption>Recieving my graduation degree. As the class valedictorian, I read the oath.</figcaption>
+</figure>
+<br>
+<figure>
+  <img src="./received_699303927815203.jpeg"  width="400" height="300">
+  <figcaption>Me and my best friends in Zurich (first time visiting Switzerland)</figcaption>
+</figure>
+<figure>
+  <img src="./IMG_20220921_181809_266.webp"  width="400" height="300">
+  <figcaption>Hanging out with Albert Einstein in Bern.</figcaption>
+</figure>
+
 
